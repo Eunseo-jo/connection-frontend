@@ -34,7 +34,7 @@ const BestClass = async () => {
         title="인기 클래스"
         link="/class"
       />
-      <CarouselTemplate bestClassList={bestClassList} />;
+      <CarouselTemplate bestClassList={bestClassList} />
     </section>
   );
 };

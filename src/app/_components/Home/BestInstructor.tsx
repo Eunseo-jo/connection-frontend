@@ -32,7 +32,7 @@ const BestInstructor = async () => {
         title="인기 강사 TOP8"
         link="/instructor"
       />
-      <CarouselTemplate bestInstructorLists={bestInstructorLists} />;
+      <CarouselTemplate bestInstructorLists={bestInstructorLists} />
     </section>
   );
 };

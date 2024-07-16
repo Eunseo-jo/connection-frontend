@@ -261,6 +261,7 @@ const UserSetup = ({
                 <input
                   id="signup-phone-validation"
                   type="number"
+                  placeholder="1234 입력 *Pass 연결 예정*"
                   onChange={(e) => setNumberValidation(Number(e.target.value))}
                   className={inputStyle}
                 />
