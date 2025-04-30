@@ -16,7 +16,7 @@
 
 ## Summary
 
-| 기간 | 2023.09 ~ 진행중 |
+| 기간 | 2023.09 ~ 2024.04 |
 |:---:|:---:|
 | 배포 | [dev 서버](https://connection-frontend.vercel.app/) |
 | 디자인 | [figma](https://www.figma.com/file/R0JimB5gutov7mYBOZ0yVB/%EC%BB%A4%EB%84%A5%EC%85%98-%EB%B0%98%EC%9D%91%ED%98%95?type=design&node-id=0%3A1&mode=design&t=F7Y3otdUhbpViFk3-1) |
